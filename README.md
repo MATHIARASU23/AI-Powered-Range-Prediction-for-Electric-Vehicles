@@ -1,5 +1,5 @@
 # AI-Powered-Range-Prediction-for-Electric-Vehicles
-**1. Introduction**
+****1. Introduction:**
 AI-Powered Range Prediction for Electric Vehicles is a smart system that uses artificial intelligence to accurately estimate how far an EV can travel based on real-time conditions. Unlike traditional range estimators that rely only on battery percentage, this project considers multiple parameters like driving behavior, terrain, temperature, and load to give users a more reliable range prediction.
 
 ****2. Problem Statement**
